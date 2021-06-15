@@ -1,8 +1,8 @@
 //
-//  NSArray+Log.h
-//  解析XML
+//  NSArray+Log.m
 //
-//  Created by 黄祖明 on 2021/6/14.
+//
+//  Created by HUANGZUMING on 2021/6/14.
 //
 
 #import <Foundation/Foundation.h>
