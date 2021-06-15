@@ -1,0 +1,2 @@
+# description
+重写NSArray与NSDictionary的descriptionWithLocale方法
